@@ -1,5 +1,8 @@
 ### greenl8 Software Development Home
-This page includes all the relevent code i've pushed to github.
+
+View my vfx portfolio website here: https://greenl8.github.io/greenl8-portfolio/
+
+This page includes all the relevent code i've pushed to github. Note that most of my best projects are private.
 
 <!--
 **greenl8/greenl8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
